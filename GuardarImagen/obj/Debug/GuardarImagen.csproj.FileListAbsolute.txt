@@ -1,0 +1,9 @@
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\bin\Debug\GuardarImagen.exe.config
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\bin\Debug\GuardarImagen.exe
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\bin\Debug\GuardarImagen.pdb
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.csprojResolveAssemblyReference.cache
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.Form1.resources
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.Properties.Resources.resources
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.csproj.GenerateResource.Cache
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.exe
+D:\Ayudantia\proyectos-visualstudio\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.pdb
